@@ -1,0 +1,28 @@
+{
+  "name": "threejs-editor",
+  "version": "0.138.0",
+  "description": "3D editor extracted from three.js",
+  "main": "sw.js",
+  "directories": {
+    "doc": "docs",
+    "example": "examples"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/junglelan/threejs-editor.git"
+  },
+  "keywords": [
+    "3D",
+    "editor",
+    "three.js"
+  ],
+  "author": "LAN JUN <lanwritemusic@163.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/junglelan/threejs-editor/issues"
+  },
+  "homepage": "https://github.com/junglelan/threejs-editor#readme"
+}
